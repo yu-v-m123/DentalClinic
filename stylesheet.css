@@ -255,7 +255,7 @@ main {
   width: 230px;
   height: 43px;
   list-style: none;
-  background: url(bgListIcon01.png) center left ;
+  background: url(img/bgListIcon01.png) center left;
   background-repeat: no-repeat;
   border-bottom: 1px solid #6CC6C4;
   margin-left: 10px;
@@ -306,7 +306,7 @@ main {
   width: 230px;
   height: 43px;
   list-style: none;
-  background: url(bgListIcon01.png) center left ;
+  background: url(img/bgListIcon01.png) center left;
   background-repeat: no-repeat;
   border-bottom: 1px solid #6CC6C4;
   margin-left: 10px;
@@ -412,7 +412,7 @@ footer {
 
 .under-list ul li {
   list-style: none;
-  background: url(bgFooterIcon.png) left center no-repeat;
+  background: url(img/bgFooterIcon.png) left center no-repeat;
 }
 
 .under-list ul li a {
